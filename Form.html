@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Form.css">
+</head>
+<body>
+    <div style="text-align: center">
+        <h1 class="head">Practise Signup Form</h1>
+      </div>
+  
+      <form>
+        <div class="formd">
+          <div class="formdesign">
+            Name: <input id="name" type="text" name="fname" />
+          </div>
+  
+          <br />
+  
+          <div class="birthdesign">
+            Date of birth: <input id="dob" type="date" name="dbirth" />
+          </div>
+  
+          <br />
+  
+          <div class="startdesign" id="sdate">
+            Start date: <input id="start-date" type="date" name="startda" />
+          </div>
+  
+          <br />
+  
+          <div class="enddesign" id="edate">
+            End date: <input id="end-date" type="date" name="endda" />
+          </div>
+  
+          <br />
+  
+          <div class="uploadfile" id="uplofile">
+            Upload a file:
+            <input
+              type="file"
+              name="upafl"
+              id="fileup"
+              accept="application/pdf,application/msword,  application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            />
+          </div>
+          <div>
+            <button type="submit" id="save_btn" class="btn btn-default">
+              Submit
+            </button>
+          </div>
+        </div>
+      </form>
+  
+      <script src="Form.js"></script>
+</body>
+</html>

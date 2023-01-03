@@ -1,0 +1,76 @@
+body {
+    padding: 75px 102px;
+    background-color: rgb(248, 255, 240);
+  }
+  .head {
+    color: rgb(163, 194, 237);
+  }
+  .formd {
+    text-align: center;
+  }
+  .formdesign {
+    font-size: 20px;
+  }
+  
+  .formdesign input {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid rgb(238, 187, 228);
+    margin: 14px;
+    border-radius: 10px;
+    font-size: 15px;
+    color:  rgb(238, 187, 228);
+  }
+  
+  .birthdesign {
+    font-size: 20px;
+  }
+  .birthdesign input {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid  rgb(238, 187, 228);
+    margin: 12px;
+    border-radius: 10px;
+    font-size: 15px;
+    color:  rgb(238, 187, 228);
+  }
+  .startdesign {
+    font-size: 20px;
+  }
+  .startdesign input {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid  rgb(238, 187, 228);
+    margin: 14px;
+    border-radius: 10px;
+    font-size: 15px;
+    color:  rgb(238, 187, 228);
+  }
+  .enddesign {
+    font-size: 20px;
+  }
+  .enddesign input {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid  rgb(238, 187, 228);
+    margin: 14px;
+    border-radius: 10px;
+    font-size: 15px;
+    color:  rgb(238, 187, 228);
+  }
+  .uploadfile {
+    font-size: 20px;
+  }
+  .uploadfile input {
+    width: 50%;
+    padding: 12px 20px;
+    border: 1px solid  rgb(238, 187, 228);
+    margin: 14px;
+    border-radius: 10px;
+    font-size: 15px;
+    color:  rgb(238, 187, 228);
+  }
+  .btn {
+    size: 30px;
+  }
+  
